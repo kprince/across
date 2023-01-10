@@ -1,6 +1,6 @@
 ## Across the Great Wall we can reach every corner in the world
 
-## wireguard.sh
+## wireguard.sh1
 
 - Description: This is a shell script for configure and start WireGuard VPN server.
 - Intro: https://teddysun.com/554.html
